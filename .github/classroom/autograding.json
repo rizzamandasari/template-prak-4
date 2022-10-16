@@ -93,7 +93,7 @@
       "setup": "javac TP02.java",
       "run": "java TP02",
       "input": "250000",
-      "output": "Transaksi = 250000\nTotal = 250000 - 25000\nPpn 11% = 27500.0\nTotal dibayar = 249750.0",
+      "output": "Transaksi = 250000\nTotal = 250000 - 25000\nPpn 11% = 24750.0\nTotal dibayar = 249750.0",
       "comparison": "included",
       "timeout": 10,
       "points": 5
